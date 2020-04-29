@@ -1,2 +1,0 @@
-# macaulay
-my-repo
